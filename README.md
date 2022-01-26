@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi I'm Ibrahim Yilmaz 
 
-<!--
-**ibrhmylmz-vcd/ibrhmylmz-vcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I
+***
+- I'm studens at Visual Communication Design
+- I'm trying to be a front-end developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to specialize in UI/UX design and combine that with front-end skills. We are going to a future where user experience matters so I think my UX and UI knowledge will help me in developing software. That's why I'm studying visual communication design.
+
+
+- I am dealing with 3d design as an amateur in my spare time. You can check it out from the link below.☟
+- [My Behance Profile](https://www.behance.net/ibrahimylmaz3)
+
+## Connect With Me
+___
+
+🔵[Twitter](https://twitter.com/ibossmu)🔵  
+
+
+
