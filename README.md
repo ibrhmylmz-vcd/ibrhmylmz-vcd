@@ -1,7 +1,7 @@
 # Hi I'm Ibrahim Yilmaz 
 
 ## Who am I
-***
+
 - I'm studens at Visual Communication Design
 - I'm trying to be a front-end developer
 
@@ -13,7 +13,7 @@ I want to specialize in UI/UX design and combine that with front-end skills. We 
 - [My Behance Profile](https://www.behance.net/ibrahimylmaz3)
 
 ## Connect With Me
-___
+
 
 🔵[Twitter](https://twitter.com/ibossmu)🔵  
 
